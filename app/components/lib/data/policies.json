@@ -1,0 +1,30 @@
+[
+  {
+    "id": "policy_shipping",
+    "policyType": "shipping-policy",
+    "title": "Shipping Policy",
+    "content": "We currently ship within Australia. Standard shipping takes 3 to 7 business days. Express shipping takes 1 to 3 business days for selected locations. Orders are processed within 1 to 2 business days excluding weekends and public holidays. Once shipped, customers receive tracking details by email.",
+    "keywords": ["shipping", "delivery", "processing time", "tracking", "express", "standard"]
+  },
+  {
+    "id": "policy_returns",
+    "policyType": "returns-policy",
+    "title": "Returns Policy",
+    "content": "Returns are accepted within 14 days of delivery for unworn items in original condition with all tags attached. Items must not be washed, altered, or damaged. Sale items are final sale unless faulty. Return shipping costs are the responsibility of the customer unless the item is faulty or incorrect.",
+    "keywords": ["returns", "refund", "exchange", "sale items", "faulty", "return shipping"]
+  },
+  {
+    "id": "policy_exchanges",
+    "policyType": "exchange-policy",
+    "title": "Exchange Policy",
+    "content": "We currently offer exchanges for size changes on eligible full-price items, subject to stock availability. If your requested size is unavailable, a store credit may be offered instead.",
+    "keywords": ["exchange", "size change", "store credit", "stock availability"]
+  },
+  {
+    "id": "policy_payments",
+    "policyType": "payment-policy",
+    "title": "Payment Policy",
+    "content": "We accept Visa, Mastercard, PayPal, Apple Pay, and Google Pay. Orders are charged at the time of purchase. All prices are shown in Australian dollars.",
+    "keywords": ["payment", "visa", "mastercard", "paypal", "apple pay", "aud"]
+  }
+]

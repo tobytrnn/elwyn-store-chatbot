@@ -1,0 +1,58 @@
+[
+  {
+    "id": "prod_elara_dress",
+    "name": "Elara Dress",
+    "category": "Dresses",
+    "price": 189,
+    "currency": "AUD",
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["Ivory", "Soft Blue"],
+    "materials": ["65% Cotton", "35% Polyester"],
+    "stockStatus": "In Stock",
+    "description": "A feminine midi dress with a soft silhouette, square neckline, and subtle romantic detailing for daytime events and dinner occasions.",
+    "careInstructions": "Cold gentle wash. Do not tumble dry.",
+    "keywords": ["elara dress", "dress", "midi dress", "ivory dress", "soft blue dress"]
+  },
+  {
+    "id": "prod_luna_top",
+    "name": "Luna Top",
+    "category": "Tops",
+    "price": 99,
+    "currency": "AUD",
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["White", "Blush"],
+    "materials": ["100% Cotton"],
+    "stockStatus": "Low Stock",
+    "description": "A structured cotton top designed for an elegant everyday look. Pairs easily with skirts and tailored trousers.",
+    "careInstructions": "Cold hand wash recommended.",
+    "keywords": ["luna top", "top", "white top", "blush top", "cotton top"]
+  },
+  {
+    "id": "prod_aria_skirt",
+    "name": "Aria Skirt",
+    "category": "Skirts",
+    "price": 129,
+    "currency": "AUD",
+    "sizes": ["S", "M", "L"],
+    "colors": ["Cream", "Black"],
+    "materials": ["70% Rayon", "30% Linen"],
+    "stockStatus": "In Stock",
+    "description": "A flowing mid-length skirt with a clean waistline and soft drape, suitable for both casual and elevated styling.",
+    "careInstructions": "Cold gentle wash. Steam to reshape.",
+    "keywords": ["aria skirt", "skirt", "cream skirt", "black skirt", "linen skirt"]
+  },
+  {
+    "id": "prod_selene_cardigan",
+    "name": "Selene Cardigan",
+    "category": "Outerwear",
+    "price": 149,
+    "currency": "AUD",
+    "sizes": ["S", "M", "L"],
+    "colors": ["Oat", "Rose"],
+    "materials": ["45% Viscose", "30% Nylon", "25% Polyester"],
+    "stockStatus": "Out of Stock",
+    "description": "A soft-touch cardigan with delicate buttons and a refined cropped fit for layering across seasons.",
+    "careInstructions": "Hand wash only. Dry flat.",
+    "keywords": ["selene cardigan", "cardigan", "knitwear", "oat cardigan", "rose cardigan"]
+  }
+]

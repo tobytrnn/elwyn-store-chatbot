@@ -1,0 +1,58 @@
+[
+  {
+    "id": "faq_shipping_1",
+    "category": "shipping",
+    "question": "How long does standard shipping take?",
+    "answer": "Standard shipping within Australia usually takes 3 to 7 business days. Regional areas may take slightly longer.",
+    "keywords": ["standard shipping", "shipping time", "delivery time", "Australia shipping"]
+  },
+  {
+    "id": "faq_shipping_2",
+    "category": "shipping",
+    "question": "Do you offer express shipping?",
+    "answer": "Yes, express shipping is available for selected Australian orders and usually takes 1 to 3 business days.",
+    "keywords": ["express shipping", "fast delivery", "urgent shipping"]
+  },
+  {
+    "id": "faq_returns_1",
+    "category": "returns",
+    "question": "What is your return policy?",
+    "answer": "We accept returns within 14 days of delivery for unworn items in original condition with tags attached.",
+    "keywords": ["return policy", "returns", "refund", "send back"]
+  },
+  {
+    "id": "faq_returns_2",
+    "category": "returns",
+    "question": "Can I return sale items?",
+    "answer": "Sale items are final sale and cannot be returned unless they arrive faulty.",
+    "keywords": ["sale items", "final sale", "return sale", "discount item"]
+  },
+  {
+    "id": "faq_sizing_1",
+    "category": "sizing",
+    "question": "How do I choose the right size?",
+    "answer": "We recommend checking the size guide on each product page. If you are between sizes, choose based on your preferred fit.",
+    "keywords": ["size guide", "choose size", "fit", "sizing help"]
+  },
+  {
+    "id": "faq_payment_1",
+    "category": "payment",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, PayPal, Apple Pay, and Google Pay.",
+    "keywords": ["payment methods", "pay", "credit card", "paypal", "apple pay"]
+  },
+  {
+    "id": "faq_orders_1",
+    "category": "orders",
+    "question": "Can I track my order?",
+    "answer": "Yes. Once your order has been shipped, you will receive a confirmation email with tracking details.",
+    "keywords": ["track order", "tracking", "shipment tracking", "where is my order"]
+  },
+  {
+    "id": "faq_contact_1",
+    "category": "contact",
+    "question": "How can I contact customer support?",
+    "answer": "You can contact our support team by email at support@elwynstudio.com. We usually respond within 1 to 2 business days.",
+    "keywords": ["contact support", "customer service", "email support", "help"]
+  }
+]
